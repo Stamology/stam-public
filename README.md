@@ -1,4 +1,4 @@
-# Public Repo! 
+#Public Repo! 
 
 The UTM Playground is a demo web application to experiment with UTMs and the automation that can be driven by their use.
 The goal of this app is to provide Marketing Operations with a place where they can experiment with UTMs independently.
